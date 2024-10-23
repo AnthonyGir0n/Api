@@ -1,0 +1,9 @@
+CREATE TABLE `proveedores` (
+  `id_proveedores` int NOT NULL,
+  `nit` varchar(10) NOT NULL,
+  `proveedor` varchar(60) NOT NULL,
+  `direccion` varchar(100) DEFAULT NULL,
+  `razon_social` varchar(60) DEFAULT NULL,
+  `fecha_creacion` date DEFAULT NULL,
+  PRIMARY KEY (`id_proveedores`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
