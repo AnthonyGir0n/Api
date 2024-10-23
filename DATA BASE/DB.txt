@@ -1,0 +1,29 @@
+-- Tabla de Puestos
+CREATE TABLE puestos (
+    id_puesto INT PRIMARY KEY IDENTITY(1,1),
+    puesto VARCHAR(100) NOT NULL
+);
+
+-- Tabla de Clientes
+CREATE TABLE clientes (
+    id_cliente INT PRIMARY KEY IDENTITY(1,1),
+    nit VARCHAR(50) NOT NULL,
+    nombres VARCHAR(100) NOT NULL,
+    apellidos VARCHAR(100) NOT NULL,
+    direccion VARCHAR(200) NOT NULL,
+    telefono VARCHAR(20),
+    fecha_nacimiento DATE
+);
+
+-- Tabla de Empleados
+CREATE TABLE empleados (
+    id_empleados INT PRIMARY KEY IDENTITY(1,1),
+    codigo VARCHAR(50) NOT NULL,
+    nombres VARCHAR(100) NOT NULL,
+    apellidos VARCHAR(100) NOT NULL,
+    direccion VARCHAR(200) NOT NULL,
+    telefono VARCHAR(20),
+    fecha_nacimiento DATE,
+    id_puesto INT,
+    FOREIGN KEY (id_puesto) REFERENCES puestos(id_puesto)
+);
