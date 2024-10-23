@@ -10,6 +10,5 @@ public class Conexiones : DbContext
     }
 
     public DbSet<Clientes> Clientes { get; set; } = null!;
-        public DbSet<Proveedores> Proveedores { get; set; } = null!;
 
 }

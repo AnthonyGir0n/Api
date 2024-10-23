@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa\\ApiEmpresa.csproj": {}
+    "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa2\\ApiEmpresa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa\\ApiEmpresa.csproj": {
+    "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa2\\ApiEmpresa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa\\ApiEmpresa.csproj",
+        "projectUniqueName": "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa2\\ApiEmpresa.csproj",
         "projectName": "ApiEmpresa",
-        "projectPath": "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa\\ApiEmpresa.csproj",
+        "projectPath": "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa2\\ApiEmpresa.csproj",
         "packagesPath": "C:\\Users\\Anthony Giron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa\\obj\\",
+        "outputPath": "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anthony Giron\\AppData\\Roaming\\NuGet\\NuGet.Config"

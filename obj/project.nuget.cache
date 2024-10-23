@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3/TVZM71ppw=",
+  "dgSpecHash": "aelU0BP8DHc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa\\ApiEmpresa.csproj",
+  "projectFilePath": "C:\\Users\\Anthony Giron\\Desktop\\UNIVERSIDAD\\ApiEmpresa2\\ApiEmpresa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anthony Giron\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Anthony Giron\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
